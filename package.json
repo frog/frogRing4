@@ -1,0 +1,16 @@
+{
+  "name": "frogRing4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Giuliano Mozzillo",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2",
+    "onoff": "^6.0.3"
+  }
+}
